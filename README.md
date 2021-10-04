@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seldeku
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and videogames
 - 🌱 I’m currently learning web development with phyton and java scrip
 - 💞️ I’m looking to collaborate on learning proyects
 <!---
